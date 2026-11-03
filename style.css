@@ -20,5 +20,5 @@ p {
 }
 
 #unique-id {
-  font-family: 'Tahoma', sans-serif; /** you can specify common font families OR link to a Google Font API **/
+  font-family: Tahoma, sans-serif; /** you can specify common font families OR link to a Google Font API **/
 }
