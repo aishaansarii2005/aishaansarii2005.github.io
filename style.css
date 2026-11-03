@@ -1,16 +1,16 @@
 body {
   background-color: #8C5D5D;
-  font-family: 'Tahoma', sans-serif;
+  font-family: Tahoma, sans-serif;
 }
 h1 {
   color: #E8CCCC;
   text-align: center;
-  font-family: 'Tahoma', sans-serif;
+  font-family: Tahoma, sans-serif;
 }
 p {
   color: #E8CCCC;
   text-align: center;
-  font-family: 'Tahoma', sans-serif;
+  font-family: Tahoma, sans-serif;
 }
 /** CSS comments are written enclosed with these characters **/
 
