@@ -1,6 +1,7 @@
 body {
   background-color: #8C5D5D;
   font-family: Tahoma, sans-serif;
+    font-size: 16px;
 }
 h1 {
   color: #E8CCCC;
@@ -17,5 +18,6 @@ p {
 
 #unique-id {
   font-family: Tahoma, sans-serif; /** you can specify common font families OR link to a Google Font API **/
+    font-size: 16px;
 }
 
