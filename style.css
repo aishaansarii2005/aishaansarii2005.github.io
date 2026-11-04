@@ -11,11 +11,11 @@ p {
   color: #E8CCCC;
   text-align: center;
   font-family: Tahoma, sans-serif;
+  font-size: 16px;
 }
 /** CSS comments are written enclosed with these characters **/
-
-
 
 #unique-id {
   font-family: Tahoma, sans-serif; /** you can specify common font families OR link to a Google Font API **/
 }
+
