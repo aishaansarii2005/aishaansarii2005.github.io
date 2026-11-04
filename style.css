@@ -1,41 +1,43 @@
 body {
-  background-color: #8C5D5D;
-  font-family: Tahoma, sans-serif;
+    background-color: #8C5D5D;
+    font-family: Tahoma, sans-serif;
     font-size: 16px;
 }
+
 h1 {
-  color: #E8CCCC;
-  text-align: center;
-  font-family: Tahoma, sans-serif;
-
-  <style>
-    img {
-        width: 200px;
-        height: 200px;
-        object-fit: cover;
-        border-radius: 15px;
-        margin: 10px;
-
-      .center-image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  /* Optional: Set a width so the margin has room to calculate */
-  width: 50%; 
+    color: #E8CCCC;
+    text-align: center;
+    font-family: Tahoma, sans-serif;
 }
-    }
-</style>
-}
+
 p {
-  color: #E8CCCC;
-  text-align: center;
-  font-family: Tahoma, sans-serif;
-  font-size: 16px;
-}
-/** CSS comments are written enclosed with these characters **/
-
-#unique-id {
-  font-family: Tahoma, sans-serif; /** you can specify common font families OR link to a Google Font API **/
+    color: #E8CCCC;
+    text-align: center;
+    font-family: Tahoma, sans-serif;
     font-size: 16px;
 }
 
+/* Image styling */
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+/* Center individual images */
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* Unique ID styling */
+#unique-id {
+    font-family: Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+/* CSS comments are written enclosed with these characters */
